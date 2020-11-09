@@ -2,8 +2,8 @@
 if(isset($_POST['submit_rating']))
 {
   $host="localhost";
-  $username="root";
-  $password="robook1234";
+  $username="yyyy";
+  $password="xxxxx";
   $databasename="overatedb";
 
   $connect=@mysql_connect($host,$username,$password);
