@@ -30,8 +30,8 @@
 
 <?php
     $host="localhost";
-    $username="root";
-    $password="robook1234";
+    $username="xxxx;
+    $password="xxxxxx";
     $databasename="overatedb";
 
     $connect=@mysql_connect($host,$username,$password);
